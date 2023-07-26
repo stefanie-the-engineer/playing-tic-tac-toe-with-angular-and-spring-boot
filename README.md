@@ -7,3 +7,4 @@
 * Sass
 * Spring Boot
 * Maven
+* MySQL
